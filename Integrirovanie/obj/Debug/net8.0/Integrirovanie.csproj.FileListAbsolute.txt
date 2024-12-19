@@ -1,0 +1,14 @@
+D:\repos\Integrirovanie\Integrirovanie\bin\Debug\net8.0\Integrirovanie.exe
+D:\repos\Integrirovanie\Integrirovanie\bin\Debug\net8.0\Integrirovanie.deps.json
+D:\repos\Integrirovanie\Integrirovanie\bin\Debug\net8.0\Integrirovanie.runtimeconfig.json
+D:\repos\Integrirovanie\Integrirovanie\bin\Debug\net8.0\Integrirovanie.dll
+D:\repos\Integrirovanie\Integrirovanie\bin\Debug\net8.0\Integrirovanie.pdb
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\Integrirovanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\Integrirovanie.AssemblyInfoInputs.cache
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\Integrirovanie.AssemblyInfo.cs
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\Integrirovanie.csproj.CoreCompileInputs.cache
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\Integrirovanie.dll
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\refint\Integrirovanie.dll
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\Integrirovanie.pdb
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\Integrirovanie.genruntimeconfig.cache
+D:\repos\Integrirovanie\Integrirovanie\obj\Debug\net8.0\ref\Integrirovanie.dll
